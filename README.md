@@ -31,6 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
 <html>
 <head>
 <meta name="veiwport"
@@ -143,6 +144,7 @@ From Scratch to Expert
 </div>
 </body>
 </html>
+```
 
 ## OUTPUT:
 ![alt text](<Screenshot (64)-1.png>)
